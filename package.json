@@ -1,0 +1,22 @@
+{
+  "name": "beacon-keeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "twilio": "^3.63.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-plugin-node": "^11.1.0"
+  }
+}
